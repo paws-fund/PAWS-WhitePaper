@@ -8,4 +8,4 @@ PAWS One Pager: [English-V1.0](PAWS_OnePager_Eng.pdf)
 PAWS White Paper: coming soon
 
 ## Roadmap
-PAWS Roadmap: coming soon
+PAWS Roadmap: [English-V1.0](PAWS_Roadmap_Eng.pdf)
